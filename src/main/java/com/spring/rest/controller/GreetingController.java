@@ -1,6 +1,6 @@
 package com.spring.rest.controller;
 
-import com.spring.rest.domain.Greeting;
+import com.spring.rest.model.Greeting;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;
